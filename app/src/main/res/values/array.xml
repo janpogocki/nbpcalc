@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="waluty">
+        <item>PLN</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CHF</item>
+        <item>GBP</item>
+        <item>THB</item>
+        <item>AUD</item>
+        <item>HKD</item>
+        <item>CAD</item>
+        <item>NZD</item>
+        <item>SGD</item>
+        <item>UAH</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>NOK</item>
+        <item>SEK</item>
+        <item>HRK</item>
+        <item>RON</item>
+        <item>BGN</item>
+        <item>TRY</item>
+        <item>ILS</item>
+        <item>PHP</item>
+        <item>MXN</item>
+        <item>ZAR</item>
+        <item>BRL</item>
+        <item>MYR</item>
+        <item>RUB</item>
+        <item>CNY</item>
+        <item>XDR</item>
+    </string-array>
+</resources>
